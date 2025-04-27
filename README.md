@@ -23,9 +23,7 @@ API RESTful para gerenciamento de tarefas (To-Do List), desenvolvida em Spring B
 
     Maven
 
-    H2 Database (opcional)
-
-    Swagger OpenAPI (opcional)
+    H2 Database 
 
 📂 Estrutura do Projeto
 
