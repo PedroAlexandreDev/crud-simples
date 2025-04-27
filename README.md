@@ -65,7 +65,3 @@ cd seu-repo
     Adicionar testes unitários e de integração
 
     Deploy em nuvem (Render, Railway, etc.)
-
-⚡ Obs.: Se quiser, também posso te gerar um README com badges (build passing, license, spring boot version, etc.) pra ficar ainda mais profissional! 🎖️
-
-Quer que eu mande uma versão com badges também? 🚀
